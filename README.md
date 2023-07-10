@@ -37,7 +37,7 @@ cherry
 With line-indexer, you can automatically add line numbers to your text file.
 <br>
 <br>
-## Example
+## Demo
 Assuming the contents of the`input.txt`file are as follows:
 ```
 apple
